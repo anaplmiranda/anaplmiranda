@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Paula Miranda 
 
-Estudando GoLang <3
+Estudando Go <3
 
 <div>
   <a>
